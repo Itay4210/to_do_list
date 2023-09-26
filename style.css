@@ -1,0 +1,57 @@
+body{
+    background-color:rgb(147, 155, 154);
+}
+
+
+
+#labelinput1{
+    color: rgb(26, 5, 3);
+    font-size:40px;
+    margin-right: 80px;
+}
+
+#inputext1{
+    font-size:20px;
+   width: 300px;
+}
+#inputext2{
+    font-size:20px;
+    width: 300px;
+}
+
+#stylediv1{
+    text-align: center;
+}
+
+#labelinput2{
+    color: rgb(26, 5, 3);
+    font-size:40px;
+    margin-right: 70px;
+   
+}
+#search{
+    font-size:20px;
+    width: 300px;
+    
+}
+#stylediv2{
+    text-align: center;
+    margin-right: 50px;
+}
+
+input[type=button]:hover{
+    background-color: rgb(27, 103, 139);
+    border-radius: 25px;
+}
+button{
+    width: 5vw;
+    height: 4vh;
+    border-radius: 15px;
+ 
+}
+
+input[type=text]{
+    background-color: rgb(153, 172, 154);
+    
+}
+
